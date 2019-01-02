@@ -18,15 +18,16 @@ In order to sort the table below (since Github doesn't allow it as of now), inst
 |-----------|-------------------------------|
 |	:o:		|	Question Complete			|
 |	:x:		|	Question in Progress		|
+|	:snail:		|	Suboptimal Solution		|
 |	:lock:	|	Question Locked	(Premium)	|
 
 ## Summary
 |	\#	|	Title															|	Difficulty	|	Category	|	Completion	|	Runtime		|
 |-------|-------------------------------------------------------------------|---------------|---------------|---------------|---------------|
 |	1	|	Two Sum															|	Easy		|	Algorithm	|	:o:			|	8ms		|
-|	2	|	Add Two Numbers													|	Medium		|	Algorithm	|				|			|
-|	3	|	Longest Substring Without Repeating Characters					|	Medium		|	Algorithm	|				|			|
-|	4	|	Median of Two Sorted Arrays										|	Hard		|	Algorithm	|				|			|
+|	2	|	Add Two Numbers													|	Medium		|	Algorithm	|	:o:			|	60ms		|
+|	3	|	Longest Substring Without Repeating Characters					|	Medium		|	Algorithm	|	:o:			|	24ms		|
+|	4	|	Median of Two Sorted Arrays										|	Hard		|	Algorithm	|	:snail:			|	52ms		|
 |	5	|	Longest Palindromic Substring									|	Medium		|	Algorithm	|				|				|
 |	6	|	ZigZag Conversion												|	Medium		|	Algorithm	|				|				|
 |	7	|	Reverse Integer													|	Easy		|	Algorithm	|				|				|
