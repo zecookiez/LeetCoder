@@ -23,7 +23,7 @@ In order to sort the table below (since Github doesn't allow it as of now), inst
 
 ## Summary
 |	\#	|	Title															|	Difficulty	|	Category	|	Completion	|	Runtime		|
-|-------|-------------------------------------------------------------------|---------------|---------------|---------------|---------------|
+|-------|-------------------------------------------------------------------|---------------|---------------|:-------------:|---------------|
 |	1	|	Two Sum															|	Easy		|	Algorithm	|	:o:			|	8ms			|
 |	2	|	Add Two Numbers													|	Medium		|	Algorithm	|	:o:			|	60ms		|
 |	3	|	Longest Substring Without Repeating Characters					|	Medium		|	Algorithm	|	:o:			|	24ms		|
