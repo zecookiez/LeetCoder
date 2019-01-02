@@ -1,7 +1,7 @@
 # LeetCode Problems and Solutions
 _Last Updated Problem Set: **December 31, 2018**_
 
-#### Repo format made by ![MrMiaoMiao](https://github.com/MrMiaoMiao)
+#### Repo format made by [MrMiaoMiao](https://github.com/MrMiaoMiao)
 
 ## Note:
 This repo is made so that I can track my progress starting January 2019 with the goal being at least 1 question per day. Most problems will be solved using C++ with the exception of Shell and Database questions. I will also try to comment my code as much as possible to make it more readable for future reference.
@@ -24,10 +24,10 @@ In order to sort the table below (since Github doesn't allow it as of now), inst
 ## Summary
 |	\#	|	Title															|	Difficulty	|	Category	|	Completion	|	Runtime		|
 |-------|-------------------------------------------------------------------|---------------|---------------|---------------|---------------|
-|	1	|	Two Sum															|	Easy		|	Algorithm	|	:o:			|	8ms		|
+|	1	|	Two Sum															|	Easy		|	Algorithm	|	:o:			|	8ms			|
 |	2	|	Add Two Numbers													|	Medium		|	Algorithm	|	:o:			|	60ms		|
 |	3	|	Longest Substring Without Repeating Characters					|	Medium		|	Algorithm	|	:o:			|	24ms		|
-|	4	|	Median of Two Sorted Arrays										|	Hard		|	Algorithm	|	:snail:			|	52ms		|
+|	4	|	Median of Two Sorted Arrays										|	Hard		|	Algorithm	|	:snail:		|	52ms		|
 |	5	|	Longest Palindromic Substring									|	Medium		|	Algorithm	|				|				|
 |	6	|	ZigZag Conversion												|	Medium		|	Algorithm	|				|				|
 |	7	|	Reverse Integer													|	Easy		|	Algorithm	|				|				|
