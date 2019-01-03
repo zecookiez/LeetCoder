@@ -18,9 +18,6 @@
 class Solution {
 public:
     string longestPalindrome(string s) {
-
-        // Go through every center, add on both sides until it stops being a palindrome
-
         int a, b,
             left = 0,
             longest = 0,
@@ -28,36 +25,39 @@ public:
 
         for(;left < s.size();left++){
             
+            // Break early if it's impossible to find a longer palindrome
+            if((s.size() - left) * 2 <= longest)
+                break;
+            
             // Odd length
             
             a = left;
             b = left;
             
-            // Keep expanding the center until it isn't a palindrome
-            while(0 < a && b < s.size() - 1 && s[a - 1] == s[b + 1]){
+            while(-1 < a && b < s.size() && s[a] == s[b]){
+                // Keep moving pointers
                 a--;
                 b++;
             }
             
-            if(b - a + 1 > longest){
-                longest = b - a + 1;
-                l_pos = a;
+            if(b + ~a > longest){
+                longest = b + ~a;
+                l_pos = a + 1;
             }
             
             // Even length
             
-            a = left + 1;
-            b = left;
+            a = left;
+            b = left + 1;
             
-            // Keep expanding the center until it isn't a palindrome
-            while(0 < a && b < s.size() - 1 && s[a - 1] == s[b + 1]){
+            while(-1 < a && b < s.size() && s[a] == s[b]){
                 a--;
                 b++;
             }
             
-            if(b - a + 1 > longest){
-                longest = b - a + 1;
-                l_pos = a;
+            if(b + ~a > longest){
+                longest = b + ~a;
+                l_pos = a + 1;
             }
         }
 

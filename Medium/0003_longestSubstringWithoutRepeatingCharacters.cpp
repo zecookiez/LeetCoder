@@ -4,7 +4,7 @@
  * Given a string, find the length of the longest substring without repeating characters.
  *
  * Time complexity: O(N)
- * Memory complexity: O(1)
+ * Memory complexity: O(K), the size of the charset we are using
  */
 
 
@@ -30,7 +30,7 @@ public:
             if(current > longest)
                 longest = current;
         }
-        
+
         return longest;
     }
 };

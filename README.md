@@ -30,9 +30,9 @@ In order to sort the table below (since Github doesn't allow it as of now), inst
 |	4	|	Median of Two Sorted Arrays										|	Hard		|	Algorithm	|	:snail:		|	52ms		|
 |	5	|	Longest Palindromic Substring									|	Medium		|	Algorithm	|	:o:			|	12ms		|
 |	6	|	ZigZag Conversion												|	Medium		|	Algorithm	|	:o:			|	36ms		|
-|	7	|	Reverse Integer													|	Easy		|	Algorithm	|				|				|
-|	8	|	String to Integer (atoi)										|	Medium		|	Algorithm	|				|				|
-|	9	|	Palindrome Number												|	Easy		|	Algorithm	|				|				|
+|	7	|	Reverse Integer													|	Easy		|	Algorithm	|	:o:			|	16ms		|
+|	8	|	String to Integer (atoi)										|	Medium		|	Algorithm	|	:o:			|	24ms		|
+|	9	|	Palindrome Number												|	Easy		|	Algorithm	|	:o:			|	248ms		|
 |	10	|	Regular Expression Matching										|	Hard		|	Algorithm	|				|				|
 |	11	|	Container With Most Water										|	Medium		|	Algorithm	|				|				|
 |	12	|	Integer to Roman												|	Medium		|	Algorithm	|				|				|
