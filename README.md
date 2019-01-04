@@ -6,6 +6,8 @@ _Last Updated Problem Set: **December 31, 2018**_
 ## Note:
 This repo is made so that I can track my progress starting January 2019 with the goal being at least 1 question per day. Most problems will be solved using C++ with the exception of Shell and Database questions. I will also try to comment my code as much as possible to make it more readable for future reference.
 
+As my goal for 2019, I am aiming to learn C++ throughout these challenges and get familiar using git when working with Github. Runtime is not my main focus, however I will try to solve as many problems in the optimal time and memory complexity as possible.
+
 In order to sort the table below (since Github doesn't allow it as of now), install the following:
 
 1. Tampermonkey
@@ -17,7 +19,7 @@ In order to sort the table below (since Github doesn't allow it as of now), inst
 |	Symbol	|	Description					|
 |-----------|-------------------------------|
 |	:o:		|	Question Complete			|
-|	:x:		|	Question in Progress		|
+|	:clock3:|	Question in Progress		|
 |	:snail:	|	Suboptimal Solution			|
 |	:lock:	|	Question Locked	(Premium)	|
 
@@ -33,13 +35,13 @@ In order to sort the table below (since Github doesn't allow it as of now), inst
 |	7	|	Reverse Integer													|	Easy		|	Algorithm	|	:o:			|	16ms		|
 |	8	|	String to Integer (atoi)										|	Medium		|	Algorithm	|	:o:			|	24ms		|
 |	9	|	Palindrome Number												|	Easy		|	Algorithm	|	:o:			|	248ms		|
-|	10	|	Regular Expression Matching										|	Hard		|	Algorithm	|				|				|
-|	11	|	Container With Most Water										|	Medium		|	Algorithm	|				|				|
-|	12	|	Integer to Roman												|	Medium		|	Algorithm	|				|				|
-|	13	|	Roman to Integer												|	Easy		|	Algorithm	|				|				|
-|	14	|	Longest Common Prefix											|	Easy		|	Algorithm	|				|				|
-|	15	|	3Sum															|	Medium		|	Algorithm	|				|				|
-|	16	|	3Sum Closest													|	Medium		|	Algorithm	|				|				|
+|	10	|	Regular Expression Matching										|	Hard		|	Algorithm	|	:clock3:	|				|
+|	11	|	Container With Most Water										|	Medium		|	Algorithm	|	:o:			|	20ms		|
+|	12	|	Integer to Roman												|	Medium		|	Algorithm	|	:o:			|	68ms		|
+|	13	|	Roman to Integer												|	Easy		|	Algorithm	|	:o:			|	88ms		|
+|	14	|	Longest Common Prefix											|	Easy		|	Algorithm	|	:o:			|	8ms			|
+|	15	|	3Sum															|	Medium		|	Algorithm	|	:o:			|	104ms		|
+|	16	|	3Sum Closest													|	Medium		|	Algorithm	|	:o:			|	8ms			|
 |	17	|	Letter Combinations of a Phone Number							|	Medium		|	Algorithm	|				|				|
 |	18	|	4Sum															|	Medium		|	Algorithm	|				|				|
 |	19	|	Remove Nth Node From End of List								|	Medium		|	Algorithm	|				|				|
