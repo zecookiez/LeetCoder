@@ -43,7 +43,7 @@ In order to sort the table below (since Github doesn't allow it as of now), inst
 |	15	|	3Sum															|	Medium		|	Algorithm	|	:o:			|	104ms		|
 |	16	|	3Sum Closest													|	Medium		|	Algorithm	|	:o:			|	8ms			|
 |	17	|	Letter Combinations of a Phone Number							|	Medium		|	Algorithm	|	:o:			|	0ms			|
-|	18	|	4Sum															|	Medium		|	Algorithm	|				|				|
+|	18	|	4Sum															|	Medium		|	Algorithm	|	:o:			|	52ms		|
 |	19	|	Remove Nth Node From End of List								|	Medium		|	Algorithm	|				|				|
 |	20	|	Valid Parentheses												|	Easy		|	Algorithm	|				|				|
 |	21	|	Merge Two Sorted Lists											|	Easy		|	Algorithm	|				|				|
