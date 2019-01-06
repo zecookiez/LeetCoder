@@ -44,7 +44,7 @@ In order to sort the table below (since Github doesn't allow it as of now), inst
 |	16	|	3Sum Closest													|	Medium		|	Algorithm	|	:o:			|	8ms			|
 |	17	|	Letter Combinations of a Phone Number							|	Medium		|	Algorithm	|	:o:			|	0ms			|
 |	18	|	4Sum															|	Medium		|	Algorithm	|	:o:			|	52ms		|
-|	19	|	Remove Nth Node From End of List								|	Medium		|	Algorithm	|				|				|
+|	19	|	Remove Nth Node From End of List								|	Medium		|	Algorithm	|	:o:			|	8ms			|
 |	20	|	Valid Parentheses												|	Easy		|	Algorithm	|				|				|
 |	21	|	Merge Two Sorted Lists											|	Easy		|	Algorithm	|				|				|
 |	22	|	Generate Parentheses											|	Medium		|	Algorithm	|				|				|
