@@ -1,5 +1,5 @@
 # LeetCode Problems and Solutions
-_Last Updated Problem Set: **December 31, 2018**_
+_Last Updated Problem Set: **January 9, 2018**_
 
 #### Repo format made by [MrMiaoMiao](https://github.com/MrMiaoMiao)
 
@@ -46,7 +46,7 @@ In order to sort the table below (since Github doesn't allow it as of now), inst
 |	18	|	4Sum															|	Medium		|	Algorithm	|	:o:			|	52ms		|
 |	19	|	Remove Nth Node From End of List								|	Medium		|	Algorithm	|	:o:			|	8ms			|
 |	20	|	Valid Parentheses												|	Easy		|	Algorithm	|	:o:			|	4ms			|
-|	21	|	Merge Two Sorted Lists											|	Easy		|	Algorithm	|				|				|
+|	21	|	Merge Two Sorted Lists											|	Easy		|	Algorithm	|	:o:			|	8ms			|
 |	22	|	Generate Parentheses											|	Medium		|	Algorithm	|				|				|
 |	23	|	Merge k Sorted Lists											|	Hard		|	Algorithm	|				|				|
 |	24	|	Swap Nodes in Pairs												|	Medium		|	Algorithm	|				|				|
@@ -534,6 +534,7 @@ In order to sort the table below (since Github doesn't allow it as of now), inst
 |	506	|	Relative Ranks													|	Easy		|	Algorithm	|				|				|
 |	507	|	Perfect Number													|	Easy		|	Algorithm	|				|				|
 |	508	|	Most Frequent Subtree Sum										|	Medium		|	Algorithm	|				|				|
+|	509	|	Fibonacci Number												|	Easy		|	Algorithm	|				|				|
 |	513	|	Find Bottom Left Tree Value										|	Medium		|	Algorithm	|				|				|
 |	514	|	Freedom Trail													|	Hard		|	Algorithm	|				|				|
 |	515	|	Find Largest Value in Each Tree Row								|	Medium		|	Algorithm	|				|				|
@@ -987,9 +988,12 @@ In order to sort the table below (since Github doesn't allow it as of now), inst
 |	966	|	Vowel Spellchecker												|	Medium		|	Algorithm	|				|				|
 |	967	|	Numbers With Same Consecutive Differences						|	Medium		|	Algorithm	|				|				|
 |	968	|	Binary Tree Cameras												|	Hard		|	Algorithm	|				|				|
+|	969	|	Pancake Sorting													|	Medium		|	Algorithm	|				|				|
+|	970	|	Powerful Integers												|	Easy		|	Algorithm	|				|				|
+|	971	|	Flip Binary Tree To Match Preorder Traversal  					|	Medium		|	Algorithm	|				|				|
+|	972	|	Equal Rational Numbers											|	Hard		|	Algorithm	|				|				|
 
 #### Missing Numbers (idk why but if anyone was wondering)
-+ 509
 + 510
 + 511
 + 512
