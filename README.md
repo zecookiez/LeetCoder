@@ -47,12 +47,12 @@ In order to sort the table below (since Github doesn't allow it as of now), inst
 |	19	|	Remove Nth Node From End of List								|	Medium		|	Algorithm	|	:o:			|	8ms			|
 |	20	|	Valid Parentheses												|	Easy		|	Algorithm	|	:o:			|	4ms			|
 |	21	|	Merge Two Sorted Lists											|	Easy		|	Algorithm	|	:o:			|	8ms			|
-|	22	|	Generate Parentheses											|	Medium		|	Algorithm	|				|				|
-|	23	|	Merge k Sorted Lists											|	Hard		|	Algorithm	|				|				|
-|	24	|	Swap Nodes in Pairs												|	Medium		|	Algorithm	|				|				|
-|	25	|	Reverse Nodes in k-Group										|	Hard		|	Algorithm	|				|				|
-|	26	|	Remove Duplicates from Sorted Array								|	Easy		|	Algorithm	|				|				|
-|	27	|	Remove Element													|	Easy		|	Algorithm	|				|				|
+|	22	|	Generate Parentheses											|	Medium		|	Algorithm	|	:o:			|	0ms			|
+|	23	|	Merge k Sorted Lists											|	Hard		|	Algorithm	|	:o:			|	28ms		|
+|	24	|	Swap Nodes in Pairs												|	Medium		|	Algorithm	|	:clock3:	|				|
+|	25	|	Reverse Nodes in k-Group										|	Hard		|	Algorithm	|	:clock3:	|				|
+|	26	|	Remove Duplicates from Sorted Array								|	Easy		|	Algorithm	|	:o:			|	28ms		|
+|	27	|	Remove Element													|	Easy		|	Algorithm	|	:o:			|	4ms			|
 |	28	|	Implement strStr()												|	Easy		|	Algorithm	|				|				|
 |	29	|	Divide Two Integers												|	Medium		|	Algorithm	|				|				|
 |	30	|	Substring with Concatenation of All Words						|	Hard		|	Algorithm	|				|				|
