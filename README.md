@@ -53,8 +53,8 @@ In order to sort the table below (since Github doesn't allow it as of now), inst
 |	25	|	Reverse Nodes in k-Group										|	Hard		|	Algorithm	|	:clock3:	|				|
 |	26	|	Remove Duplicates from Sorted Array								|	Easy		|	Algorithm	|	:o:			|	28ms		|
 |	27	|	Remove Element													|	Easy		|	Algorithm	|	:o:			|	4ms			|
-|	28	|	Implement strStr()												|	Easy		|	Algorithm	|				|				|
-|	29	|	Divide Two Integers												|	Medium		|	Algorithm	|				|				|
+|	28	|	Implement strStr()												|	Easy		|	Algorithm	|	:o:			|	4ms			|
+|	29	|	Divide Two Integers												|	Medium		|	Algorithm	|	:o:			|	12ms		|
 |	30	|	Substring with Concatenation of All Words						|	Hard		|	Algorithm	|				|				|
 |	31	|	Next Permutation												|	Medium		|	Algorithm	|				|				|
 |	32	|	Longest Valid Parentheses										|	Hard		|	Algorithm	|				|				|
